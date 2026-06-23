@@ -1,7 +1,7 @@
 ## Hi! 👋 I am Gee-Jay a Full Stack Developer from the 🇵🇭
 
 * :computer: Web Developer
-* :robot: Robotic Enthusiast
+* :robot: AI Automation Enthusiast
 * :hammer: Rig Building Hobbyist
 
 ## Technologies that I am familiar with/use in a day-to-day basis
