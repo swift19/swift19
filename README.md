@@ -42,6 +42,9 @@
 ![Wix Logo](https://img.shields.io/badge/Wix-4B42B7?style=for-the-badge&logo=wix&logoColor=white)
 ![Shopify Logo](https://img.shields.io/badge/Shopify-lightgray?style=for-the-badge&logo=shopify&logoColor=green)
 
+### AI Skill(s)
+LLM Workflow, AI APIs, Promp Engineer, AI Automation(n8n,zapier,make.com)
+
 ### ORM(s)
 
 ![Eloquent](https://img.shields.io/badge/laravel_Eloquent-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
